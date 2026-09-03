@@ -1,0 +1,65 @@
+about:
+  description: Open-source Agent Operating System
+  license: Apache-2.0
+  homepage: https://www.openfang.sh/
+  head: acf2587
+  archived: false
+  latestVersion: v0.6.9
+  collectedAt: 2026-09-03T04:36:01Z
+timeline:
+  created: 2026-02-24
+  lastCommit: 2026-05-12
+  lastRelease: 2026-05-12
+popularity:
+  star: 18162
+  watcher: 128
+  fork: 2291
+  release: 100
+  contributor: 61
+  pullRequest: 384
+  issue: 733
+language:
+  Rust: 7189272
+  HTML: 385107
+  JavaScript: 381872
+  CSS: 100043
+  Python: 39720
+  Shell: 8929
+  PowerShell: 6955
+  Dockerfile: 2920
+  Nix: 2167
+  Batchfile: 480
+totalLine: 8117465
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 0
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-05
+    release: 0
+    mergedPR: 0
+    openPR: 13
+    closedIssue: 0
+    openIssue: 16
+    commit: 0
+  last180d:
+    since: 2026-03-07
+    release: 54
+    mergedPR: 140
+    openPR: 42
+    closedIssue: 373
+    openIssue: 73
+    commit: 356
+  last360d:
+    since: 2025-09-08
+    release: 100
+    mergedPR: 151
+    openPR: 42
+    closedIssue: 660
+    openIssue: 73
+    commit: 436

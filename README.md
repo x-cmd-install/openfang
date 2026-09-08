@@ -1,6 +1,24 @@
----
-owner-repo: RightNow-AI/openfang
-desc:   Open-source Agent Operating System
----
-
 # openfang
+
+Open-source Agent Operating System
+
+- **Upstream**: <https://github.com/RightNow-AI/openfang>
+- **Homepage**: <https://www.openfang.sh/>
+- **Latest release**: `v0.6.9` (2026-05-12)
+- **Last commit**: 2026-05-12
+- **License**: Apache-2.0
+- **Stars**: 18170 · **Forks**: 2293 · **Open issues**: 735 · **Contributors**: 61
+
+## Installation
+
+```sh
+x install openfang
+```
+
+See <https://x-cmd.com/install/openfang> for details.
+
+## Data
+
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+
+_Last regenerated: 2026-09-08T11:27:28Z._

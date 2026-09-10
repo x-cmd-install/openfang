@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.6.9"
   latestRelease: "v0.6.9"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:29:25Z
+  collectedAt: 2026-09-10T17:28:53Z
 timeline:
   created: 2026-02-24
   lastCommit: 2026-05-12
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-05-12
   lastPrerelease: 
 popularity:
-  star: 18171
+  star: 18172
   watcher: 128
-  fork: 2293
+  fork: 2294
   release: 100
   contributor: 60
   pullRequest: 532
@@ -66,7 +66,7 @@ recent:
     openPR: 44
     closedIssue: 247
     openIssue: 74
-    commit: 282
+    commit: 280
   last360d:
     since: 2025-09-15
     release: 100
@@ -74,7 +74,7 @@ recent:
     openPR: 44
     closedIssue: 660
     openIssue: 75
-    commit: 436
+    commit: 434
   last720d:
     since: 2024-09-20
     release: 100
@@ -92,7 +92,7 @@ total:
   commit: 551
 ---
 path: /home/runner/.x-repo/github.com/RightNow-AI/openfang
-collectedAt: 2026-09-10T05:29:28Z
+collectedAt: 2026-09-10T17:28:56Z
 loc:
   Rust:
     code: 162280

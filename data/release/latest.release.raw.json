@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 21141203,
       "digest": "sha256:1b77c4a061719d3eebaaa2da45cfaebc5c7096799bc8682d4a8d4ba8893f8e25",
-      "download_count": 1114,
+      "download_count": 1119,
       "created_at": "2026-05-12T19:05:11Z",
       "updated_at": "2026-05-12T19:05:13Z",
       "browser_download_url": "https://github.com/RightNow-AI/openfang/releases/download/v0.6.9/openfang-aarch64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 22543669,
       "digest": "sha256:0c9b59460e94202583af973cd21be8d2ec864f94d90b05d0ab1fc948b3cd7f63",
-      "download_count": 497,
+      "download_count": 498,
       "created_at": "2026-05-12T19:13:03Z",
       "updated_at": "2026-05-12T19:13:04Z",
       "browser_download_url": "https://github.com/RightNow-AI/openfang/releases/download/v0.6.9/openfang-aarch64-pc-windows-msvc.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 25037204,
       "digest": "sha256:18f5a8f6b563304749ce07444de8ca901fccb45e06a2e5a074fbbfbec037dc9f",
-      "download_count": 1983,
+      "download_count": 1993,
       "created_at": "2026-05-12T19:10:39Z",
       "updated_at": "2026-05-12T19:10:41Z",
       "browser_download_url": "https://github.com/RightNow-AI/openfang/releases/download/v0.6.9/openfang-x86_64-pc-windows-msvc.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 26141912,
       "digest": "sha256:4309b0bcf2adc5dac45776e2008087a8ad072933f1ae698ff8d4e06fb6b87602",
-      "download_count": 3524,
+      "download_count": 3542,
       "created_at": "2026-05-12T18:58:22Z",
       "updated_at": "2026-05-12T18:58:24Z",
       "browser_download_url": "https://github.com/RightNow-AI/openfang/releases/download/v0.6.9/openfang-x86_64-unknown-linux-gnu.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 22312896,
       "digest": "sha256:f9d54b4de10d8cf31b38da7a853c3764ba81092f3e13acd13f155ad8132136de",
-      "download_count": 121,
+      "download_count": 128,
       "created_at": "2026-05-12T19:01:02Z",
       "updated_at": "2026-05-12T19:01:04Z",
       "browser_download_url": "https://github.com/RightNow-AI/openfang/releases/download/v0.6.9/OpenFang_0.6.9_aarch64.dmg"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 22146870,
       "digest": "sha256:5729a46e9c1409c8d9b741b9a48a6c328883ad8f7c5375e7e30647bd24a9047f",
-      "download_count": 43,
+      "download_count": 45,
       "created_at": "2026-05-12T19:01:04Z",
       "updated_at": "2026-05-12T19:01:06Z",
       "browser_download_url": "https://github.com/RightNow-AI/openfang/releases/download/v0.6.9/OpenFang_aarch64.app.tar.gz"

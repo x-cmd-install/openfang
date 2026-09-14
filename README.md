@@ -38,22 +38,22 @@ Total: **201,495** lines of code across **389** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 18,175 · **Forks**: 2,295 · **Open issues**: 735 · **Contributors**: 60
+- **Stars**: 18,178 · **Forks**: 2,294 · **Open issues**: 736 · **Contributors**: 60
 
 ## Totals (cumulative)
 
-- **Releases**: 100 · **Merged PRs**: 149 · **Open PRs**: 45 · **Closed issues**: 660 · **Open issues**: 75 · **Commits**: 551
+- **Releases**: 100 · **Merged PRs**: 149 · **Open PRs**: 45 · **Closed issues**: 660 · **Open issues**: 76 · **Commits**: 551
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 4 | 0 | 2 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 6 | 0 | 5 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 12 | 0 | 10 | 0 |
-| last180d | 2026-03-17 | 26 | 106 | 45 | 199 | 71 | 280 |
-| 360d | 2025-09-18 | 100 | 149 | 45 | 660 | 75 | 434 |
-| last720d | 2024-09-23 | 100 | 149 | 45 | 660 | 75 | 551 |
+| 30d | 2026-08-15 | 0 | 0 | 4 | 0 | 3 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 6 | 0 | 6 | 0 |
+| 90d | 2026-06-16 | 0 | 0 | 12 | 0 | 10 | 0 |
+| last180d | 2026-03-18 | 26 | 102 | 45 | 188 | 71 | 209 |
+| 360d | 2025-09-19 | 100 | 149 | 45 | 660 | 76 | 434 |
+| last720d | 2024-09-24 | 100 | 149 | 45 | 660 | 76 | 551 |
 
 ## Release assets
 
@@ -85,10 +85,6 @@ Total: **201,495** lines of code across **389** files in the top 5 languages.
 | [OpenFang_aarch64.app.tar.gz](https://github.com/RightNow-AI/openfang/releases/download/v0.6.9/OpenFang_aarch64.app.tar.gz) | 21.1 MiB | `native/linux/arm64` |
 | [OpenFang_x64.app.tar.gz](https://github.com/RightNow-AI/openfang/releases/download/v0.6.9/OpenFang_x64.app.tar.gz) | 23.7 MiB | `native/unknown` |
 
-## Distribution status
-
-Reported by **4** distros on [repology.org](https://repology.org/project/openfang). **4** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
 ## Improve this data
 
 Install metadata for openfang lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `openfang` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -98,4 +94,4 @@ Install metadata for openfang lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:28:58Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:48:10Z._

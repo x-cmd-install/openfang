@@ -38,7 +38,7 @@ Total: **201,495** lines of code across **389** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 18,211 · **Forks**: 2,289 · **Open issues**: 735 · **Contributors**: 61
+- **Stars**: 18,213 · **Forks**: 2,291 · **Open issues**: 735 · **Contributors**: 61
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **201,495** lines of code across **389** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 0 | 7 | 0 | 0 | 0 |
-| last60d | 2026-08-08 | 0 | 0 | 10 | 0 | 2 | 0 |
-| 90d | 2026-07-09 | 0 | 0 | 14 | 0 | 5 | 0 |
-| last180d | 2026-04-10 | 13 | 38 | 48 | 59 | 50 | 119 |
-| 360d | 2025-10-12 | 100 | 151 | 51 | 660 | 75 | 436 |
-| last720d | 2024-10-17 | 100 | 151 | 51 | 660 | 75 | 551 |
+| 30d | 2026-09-08 | 0 | 0 | 7 | 0 | 0 | 0 |
+| last60d | 2026-08-09 | 0 | 0 | 10 | 0 | 2 | 0 |
+| 90d | 2026-07-10 | 0 | 0 | 14 | 0 | 5 | 0 |
+| last180d | 2026-04-11 | 11 | 37 | 48 | 57 | 49 | 119 |
+| 360d | 2025-10-13 | 100 | 151 | 51 | 660 | 75 | 436 |
+| last720d | 2024-10-18 | 100 | 151 | 51 | 660 | 75 | 551 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for openfang lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:31:15Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:37:05Z._

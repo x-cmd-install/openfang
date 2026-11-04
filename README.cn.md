@@ -38,7 +38,7 @@ x install openfang
 
 ## 流行度
 
-- **Star**: 18,241 · **Fork**: 2,289 · **开放 issue**: 736 · **贡献者**: 61
+- **Star**: 18,242 · **Fork**: 2,287 · **开放 issue**: 736 · **贡献者**: 61
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install openfang
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 0 | 5 | 0 | 1 | 0 |
-| last60d | 2026-09-04 | 0 | 0 | 14 | 0 | 2 | 0 |
-| 90d | 2026-08-05 | 0 | 0 | 15 | 0 | 3 | 0 |
-| last180d | 2026-05-07 | 5 | 1 | 51 | 5 | 36 | 44 |
-| 360d | 2025-11-08 | 100 | 151 | 56 | 660 | 76 | 436 |
-| last720d | 2024-11-13 | 100 | 151 | 56 | 660 | 76 | 551 |
+| 30d | 2026-10-05 | 0 | 0 | 5 | 0 | 1 | 0 |
+| last60d | 2026-09-05 | 0 | 0 | 13 | 0 | 1 | 0 |
+| 90d | 2026-08-06 | 0 | 0 | 15 | 0 | 3 | 0 |
+| last180d | 2026-05-08 | 5 | 0 | 51 | 4 | 35 | 44 |
+| 360d | 2025-11-09 | 100 | 151 | 56 | 660 | 76 | 436 |
+| last720d | 2024-11-14 | 100 | 151 | 56 | 660 | 76 | 551 |
 
 ## Release 资产
 
@@ -85,10 +85,6 @@ x install openfang
 | [OpenFang_aarch64.app.tar.gz](https://github.com/RightNow-AI/openfang/releases/download/v0.6.9/OpenFang_aarch64.app.tar.gz) | 21.1 MiB | `native/linux/arm64` |
 | [OpenFang_x64.app.tar.gz](https://github.com/RightNow-AI/openfang/releases/download/v0.6.9/OpenFang_x64.app.tar.gz) | 23.7 MiB | `native/unknown` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/openfang) 上共有 **4** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
-
 ## 改进这些数据
 
 openfang 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `openfang` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -98,4 +94,4 @@ openfang 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T07:43:43Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T06:56:53Z._

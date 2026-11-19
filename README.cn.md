@@ -38,22 +38,22 @@ x install openfang
 
 ## 流行度
 
-- **Star**: 18,253 · **Fork**: 2,281 · **开放 issue**: 736 · **贡献者**: 61
+- **Star**: 18,271 · **Fork**: 2,284 · **开放 issue**: 738 · **贡献者**: 61
 
 ## 累计统计
 
-- **发布数**: 100 · **已合并 PR**: 151 · **开放 PR**: 59 · **已关闭 issue**: 659 · **开放 issue**: 77 · **提交数**: 551
+- **发布数**: 100 · **已合并 PR**: 151 · **开放 PR**: 62 · **已关闭 issue**: 660 · **开放 issue**: 78 · **提交数**: 551
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 8 | 0 | 1 | 0 |
-| last60d | 2026-09-18 | 0 | 0 | 14 | 0 | 2 | 0 |
-| 90d | 2026-08-19 | 0 | 0 | 18 | 0 | 4 | 0 |
-| last180d | 2026-05-21 | 0 | 0 | 42 | 0 | 25 | 0 |
-| 360d | 2025-11-22 | 100 | 151 | 59 | 659 | 77 | 436 |
-| last720d | 2024-11-27 | 100 | 151 | 59 | 659 | 77 | 551 |
+| 30d | 2026-10-20 | 0 | 0 | 10 | 0 | 2 | 0 |
+| last60d | 2026-09-20 | 0 | 0 | 17 | 0 | 3 | 0 |
+| 90d | 2026-08-21 | 0 | 0 | 21 | 0 | 5 | 0 |
+| last180d | 2026-05-23 | 0 | 0 | 45 | 0 | 25 | 0 |
+| 360d | 2025-11-24 | 100 | 151 | 62 | 660 | 78 | 436 |
+| last720d | 2024-11-29 | 100 | 151 | 62 | 660 | 78 | 551 |
 
 ## Release 资产
 
@@ -85,6 +85,10 @@ x install openfang
 | [OpenFang_aarch64.app.tar.gz](https://github.com/RightNow-AI/openfang/releases/download/v0.6.9/OpenFang_aarch64.app.tar.gz) | 21.1 MiB | `native/linux/arm64` |
 | [OpenFang_x64.app.tar.gz](https://github.com/RightNow-AI/openfang/releases/download/v0.6.9/OpenFang_x64.app.tar.gz) | 23.7 MiB | `native/unknown` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/openfang) 上共有 **4** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
+
 ## 改进这些数据
 
 openfang 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `openfang` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -94,4 +98,4 @@ openfang 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T10:31:01Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T09:07:37Z._
